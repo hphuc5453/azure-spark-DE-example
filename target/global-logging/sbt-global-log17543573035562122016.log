@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(assembly, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: assembly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/lhphuc2/IdeaProjects/DeExample/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0m2 file(s) merged using strategy 'Rename' (Run the task at debug level to see the details)[0m
+[0m[[0m[0minfo[0m] [0m[0m1 file(s) merged using strategy 'Discard' (Run the task at debug level to see the details)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt: /Users/lhphuc2/IdeaProjects/DeExample/target/scala-2.12/DeExample-assembly-VERSION-0.1.26.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mJar hash: 11e4f5e6c65bef827763d64c3a09c0ff7e1840e9[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed Dec 1, 2023, 4:29:50 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
